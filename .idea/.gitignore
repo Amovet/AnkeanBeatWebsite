@@ -1,7 +1,42 @@
 # Default ignored files
 /shelf/
+.idea
+idea
+
+*.egg-info/
+.installed.cfg
+*.egg
+
+dist
+BackEnd/db.sqlite3
+sqlite.db
+venv
+
+__pycaceh__/
+*/__pycaceh__/
+.pyc
+*.py[cod]
+*.pyc
+
+node_modules/
+
+!*media/.gitkeep
+media/*
+
+log/debug.log
+
+build
+doc
+home.rst
+make.bat
+Makefile
+
+doc-dev
+
+*.log
+.log
+
 /workspace.xml
-/ankean-beats
 # Editor-based HTTP Client requests
 /httpRequests/
  
